@@ -1,30 +1,25 @@
-# Quiz App
-
-[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-
+<h1 align="center">Todo React App  📝</h1>  
 <p align="center">
-    <img src="https://i.imgur.com/NtxQwtR.gif">
+  🖊️ A simple Todo App built using <a href="https://reactjs.org/">React</a> and <a href="https://mantine.dev/">Mantine UI</a>
 </p>
 
-This is a sample Quiz app using React Hooks (useReducer() + useContext()).
+## This is a super simple Todo App built using React.js and styled using Mantine UI.
 
-## Usage
+You can view a live demo of the project here: https://javascriptbear.github.io/todo_react_app/
+Or, you can watch this video demo
 
-If you want to use it on your local environment you can run:
+### **(Most likely outdated, its reccomeneded you check out the live demo!)**
 
-`npm start`
+https://user-images.githubusercontent.com/109053279/178185429-8de77574-cc2f-429f-8c4e-b1ed9f290894.mp4
 
-It will run the app in development mode and it will open [http://localhost:3000](http://localhost:3000) in your browser.
+## 😃 Features:
 
-## React Hooks Tutorial
+- ➕ Add todos
+- 🗑️ Delete todos
+- ⏸ Save todos to Local Storage when the state changes
+- ▶️ Load the todos from Local Storage when the site is loaded again
+- 🌙 Light \ dark mode toggle
 
-This app was created for a React Hooks tutorial, if you want to follow the tutorial on Youtube go there: [https://youtube.com/CarlosMafla](https://youtube.com/CarlosMafla)
-
-## Contributing
-
-Pull requests are welcome.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+<p align="center">
+  ❤️ Feel free to create issues and contributions for features or bugs to this project.
+</p>
